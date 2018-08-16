@@ -25,5 +25,5 @@ setTimeout(function(){
 		  });
 	  });
 	  
-	  FreshWidget.init("", {"queryString": "&widgetType=popup", "utf8": "✓", "widgetType": "popup", "buttonType": "text", "buttonText": "Gởi hỗ trợ", "buttonColor": "white", "buttonBg": "#006063", "alignment": "2", "offset": "235px", "formHeight": "500px", "url": "https://automationtransform.freshdesk.com", "requester": appUser.email} );
+	  
   }, 3500);
